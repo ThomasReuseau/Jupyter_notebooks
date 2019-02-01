@@ -1,1 +1,1 @@
-<h1> Those jupyter have created in the context of my MSc @ DSTI </h1>
+<h1> Those jupyter were created in the context of my MSc @ DSTI </h1>
